@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RetrofitJsonLogin</string>
+    <string name="full_name">Nombre</string>
+    <string name="password">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+</resources>
